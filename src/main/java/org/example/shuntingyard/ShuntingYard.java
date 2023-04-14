@@ -1,4 +1,4 @@
-package org.example.queue;
+package org.example.shuntingyard;
 
 import java.security.InvalidParameterException;
 import java.util.Arrays;

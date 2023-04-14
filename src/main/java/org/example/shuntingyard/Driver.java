@@ -1,6 +1,4 @@
-package org.example.queue;
-
-import org.example.queue.ShuntingYard;
+package org.example.shuntingyard;
 
 public class Driver {
 
